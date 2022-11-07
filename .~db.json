@@ -24,54 +24,9 @@
   ],
   "requests": [
     {
-      "name": "nas3headlinerov",
-      "phone": "gtfgrtrtg",
-      "id": 1
-    },
-    {
-      "name": "Георгий ",
-      "phone": "+7 (982) 699-72-82",
-      "id": 2
-    },
-    {
-      "name": "nas3headlinerov",
-      "phone": "+7 (982) 699-72-82",
-      "id": 3
-    },
-    {
-      "name": "Георгий ",
-      "phone": "+7 (982) 699-72-82",
-      "id": 4
-    },
-    {
-      "name": "nas3headlinerov",
-      "phone": "+7 (982) 699-72-82",
-      "id": 5
-    },
-    {
-      "name": "nas3headlinerov",
-      "phone": "+7 (982) 699-72-82",
-      "id": 6
-    },
-    {
-      "name": "Георгий Шагин",
-      "phone": "+7 (982) 699-72-82",
-      "id": 7
-    },
-    {
-      "name": "nas3headlinerov",
-      "phone": "+7 (982) 699-72-82",
-      "id": 8
-    },
-    {
-      "name": "Георгий Шагин",
+      "name": "фцв",
       "phone": "+7(965)555-55-55",
-      "id": 9
-    },
-    {
-      "name": "yi7t",
-      "phone": "+7 (965) 555-55-55",
-      "id": 10
+      "id": 1
     }
   ]
 }
